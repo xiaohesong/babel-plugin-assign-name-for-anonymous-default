@@ -16,10 +16,6 @@
 yarn install babel-plugin-assign-name-for-anonymous-default
 ```
 
-## Author
-
-👤 **xiaohesong <didmehh163@gmail.com>**
-
 ## Usage
 
 - .babelrc
@@ -48,10 +44,6 @@ Or in webpck:
 }
 ```
 
+## Author
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+👤 **xiaohesong <didmehh163@gmail.com>**
